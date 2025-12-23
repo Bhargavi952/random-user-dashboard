@@ -110,6 +110,17 @@ src/
 ```
 
 ---
+## 📸 Screenshots
+### Desktop View
+<img width="1889" height="956" alt="image" src="https://github.com/user-attachments/assets/ace8bfff-6cf4-4341-8af8-cfccaee5565e" />
+
+### Mobile View
+<img width="878" height="923" alt="image" src="https://github.com/user-attachments/assets/3712964a-23bb-45a0-837c-f8c1eb0bb4bb" />
+
+### Error State (Error Card)
+<img width="1552" height="895" alt="image" src="https://github.com/user-attachments/assets/72ef31f0-99f6-4278-bad1-90fadf9c9cff" />
+
+---
 
 ## 📝 Usage
 
