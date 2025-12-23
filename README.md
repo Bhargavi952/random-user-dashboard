@@ -4,6 +4,13 @@ This is a React + TypeScript application that fetches and displays a random user
 
 The application demonstrates clean React practices using functional components, hooks, async/await, Axios for API calls, and localStorage for persistence.
 
+
+
+
+## 🌐 Live Demo
+
+Check out the live version of the application: [https://random-user-dashboard.netlify.app/](https://random-user-dashboard.netlify.app/)
+
 ## ✨ Features
 
 - Fetches random user data from an external API
