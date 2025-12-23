@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { fetchRandomUser } from "./services/userService";
-import UserCard from "./component/UserCard";
-import ErrorCard from "./component/ErrorCard";
+import UserCard from "./components/UserCard";
+import ErrorCard from "./components/ErrorCard";
 import type { User } from "./types/user";
 import { RefreshCw } from "lucide-react";
 import {
