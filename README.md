@@ -34,3 +34,57 @@ The application demonstrates clean React practices using functional components, 
 ```bash
 npm install
 ```
+
+### 2️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+This will start the Vite development server. Open your browser and navigate to `http://localhost:5173` to view the application.
+
+### 3️⃣ Build for production
+
+```bash
+npm run build
+```
+
+This will create a `dist` folder with the production build.
+
+### 4️⃣ Preview the production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+├── App.tsx          # Main application component
+├── main.tsx         # Entry point
+├── index.css        # Global styles
+├── App.css          # App-specific styles
+├── assets/          # Static assets
+├── components/      # Reusable UI components
+│   ├── Avatar.tsx
+│   ├── ErrorCard.tsx
+│   └── UserCard.tsx
+├── constants/       # Application constants
+│   ├── color.ts
+│   └── message.ts
+├── services/        # API services
+│   └── userService.ts
+└── types/           # TypeScript type definitions
+    └── user.ts
+```
+
+---
+
+## 📝 Usage
+
+The application fetches a random user from the Random User API and displays their information in a card format. Click the refresh button to load a new random user. The last fetched user is saved in localStorage for persistence across sessions.
+
+---
