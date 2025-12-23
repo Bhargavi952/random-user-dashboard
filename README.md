@@ -66,6 +66,27 @@ npm run preview
 
 ---
 
+
+## � Deployment
+
+This application is deployed on Netlify. To deploy your own version:
+
+1. Build the project for production:
+
+   ```bash
+   npm run build
+   ```
+
+2. Upload the `dist` folder to Netlify:
+   - Go to [Netlify](https://netlify.com)
+   - Drag and drop the `dist` folder into the deployment area
+   - Or connect your GitHub repository for automatic deployments
+
+The live demo is available at: [https://random-user-dashboard.netlify.app/](https://random-user-dashboard.netlify.app/)
+
+---
+
+
 ## 📁 Project Structure
 
 ```
